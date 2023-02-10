@@ -8,3 +8,6 @@ Since it is unsupervised classification, further judgement by human is required 
 
 __Area of study__</br>
 The area of study is near Abbortsford, BC, Canada.
+
+__Google Earth Engine__</br>
+The same code in the format of GEE Java can be cound in https://code.earthengine.google.com/bc184530bd533f950045acda243060d7?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects
