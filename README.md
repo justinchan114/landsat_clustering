@@ -1,4 +1,4 @@
-# Landsat_clustering
+# Landuse_clustering
 Unsupervised classification of landuse in Landsat 8 (https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_RT) in Google Earth Engine.
 
 __Methodology__</br>
