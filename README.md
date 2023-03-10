@@ -6,7 +6,7 @@ Landsat 8 contains 11 bands of wavelengths, which are scaled, calibrated at-sens
 
 Since it is unsupervised classification, further judgement by human is required to distinguish the content of each clusters. Comparisons over RGB image and NDVI layers were made, to determine the categories.
 
-__Area of study__</br>
+__Area and time of study__</br>
 The area of study is near Abbortsford, BC, Canada.
 
 __Google Earth Engine__</br>
